@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Amazon-Clone/static/css/main.53811e51.css",
+    "main.js": "/Amazon-Clone/static/js/main.fdf08a96.js",
+    "static/media/emptyCart.png": "/Amazon-Clone/static/media/emptyCart.cec40e63b8c18a4291e6.png",
+    "static/media/amazonBanner.jpg": "/Amazon-Clone/static/media/amazonBanner.dec540b027ae7bbf0018.jpg",
+    "static/media/amazonLogoBlack.png": "/Amazon-Clone/static/media/amazonLogoBlack.33df91aa86d7d04ca87f.png",
+    "index.html": "/Amazon-Clone/index.html",
+    "main.53811e51.css.map": "/Amazon-Clone/static/css/main.53811e51.css.map",
+    "main.fdf08a96.js.map": "/Amazon-Clone/static/js/main.fdf08a96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53811e51.css",
+    "static/js/main.fdf08a96.js"
+  ]
+}
